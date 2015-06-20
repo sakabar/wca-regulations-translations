@@ -7,23 +7,23 @@
 
 ### WCA 大会規則・ガイドライン
 
-WCA 大会規則は全ての WCA 公式大会に適用される規則であり、補足事項は [WCA ガイドライン](guidelines:top)に記載されています。
-WCA 大会規則は文書として完結する必要があるが、ガイドラインにはより詳しい説明や解釈などが記載されています。
+WCA 大会規則は全ての WCA 公式大会に適用される規則です。    
+補足事項は [WCA ガイドライン](guidelines:top)に記載されています。WCA 大会規則は文書として完結することが望ましいが、ガイドラインにはより詳しい説明や解釈などが記載されています。
 
 ### 表現法
 表現は [RFC 2119](https://www.ietf.org/rfc/rfc2119.txt) （訳注：[日本語訳](https://www.ipa.go.jp/security/rfc/RFC2119JA.html)）に準拠するよう記述されています。
 
 ### インターネット上での情報
-世界キューブ協会のウェブサイト：[www.worldcubeassociation.org](http://www.worldcubeassociation.org/)  
-WCA 大会規則原文：[www.worldcubeassociation.org/regulations](http://www.worldcubeassociation.org/regulations/)  
+世界キューブ協会のウェブサイト：[www.worldcubeassociation.org](http://www.worldcubeassociation.org/)    
+WCA 大会規則原文：[www.worldcubeassociation.org/regulations](http://www.worldcubeassociation.org/regulations/)    
 WCA 大会規則 PDF 版：[PDF format](link:pdf)
 
 ### 出典
 最新の WCA 大会規則とガイドラインは [GitHub](https://github.com/cubing/wca-documents) 上にて公開されています。
 
 ### お問い合わせ先
-質問・ご指摘等は [WCA 大会規則委員会](http://www.worldcubeassociation.org/contact-information)へお問い合わせ下さい。
-日本語での質問・ご指摘等はJRCA掲示板またはお問い合わせをご利用下さい。
+質問・ご指摘等は [WCA 大会規則委員会](http://www.worldcubeassociation.org/contact-information)へお問い合わせください。    
+日本語での質問・ご指摘等はJRCA掲示板またはお問い合わせをご利用ください。
 
 
 ## <contents> [内容](regulations:contents)
