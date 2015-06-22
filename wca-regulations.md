@@ -23,7 +23,7 @@ WCA 大会規則 PDF 版：[PDF format](link:pdf)
 
 ### お問い合わせ先
 質問・ご指摘等は [WCA 大会規則委員会](http://www.worldcubeassociation.org/contact-information)へお問い合わせください。    
-日本語での質問・ご指摘等はJRCA掲示板またはお問い合わせをご利用ください。
+日本語での質問・ご指摘等は JRCA 掲示板またはお問い合わせをご利用ください。
 
 
 ## <contents> [内容](regulations:contents)
