@@ -22,7 +22,7 @@ WCA 大会規則 PDF 版：[PDF format](link:pdf)
 最新の WCA 大会規則とガイドラインは [GitHub](https://github.com/cubing/wca-documents) 上にて公開されています。
 
 ### お問い合わせ先
-質問・ご指摘等は [WCA 大会規則委員会](http://www.worldcubeassociation.org/contact-information)へお問い合わせください。    
+質問・ご指摘等は [WCA 大会規則委員会](https://www.worldcubeassociation.org/contact/wrc)へお問い合わせください。    
 日本語での質問・ご指摘等は JRCA 掲示板またはお問い合わせをご利用ください。
 
 
